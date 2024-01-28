@@ -26,4 +26,4 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<h3>link para teste: </h3>
+<h3>link para teste: https://ausiane.github.io/Curso-Alura-Oracle/ </h3>
