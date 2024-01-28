@@ -1,0 +1,35 @@
+header {
+    text-align: lef;
+    font-size: 30px;
+    color: #070808;
+}
+
+main,
+html {
+    margin: 2px;
+    padding: 10px;
+    height: 75%;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, rgba(134, 167, 20, 0), rgb(207, 189, 22));
+}
+
+.container {
+    text-align: center;
+    position: relative;
+    color: #0e0d0d;
+}
+
+.button {
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 24px;
+    border: none;
+    background-color: #b68c01;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button:hover {
+    background-color: #086804;
+}
